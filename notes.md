@@ -1,5 +1,7 @@
 ### Notes on munging this data:
 - we wanted to look at whether there was any relationship between child's first placement upon entry into the system and their ultimate final outcome upon exiting the system for the last time (good, bad, neutral)
+	* It took a long time to understand the dataset
+
 	* There was no easy way to identify final outcome since data is by spells and different students have different numbers of spells
 
 	* We had to consult with experts to apply value judgement to each final placement exit
@@ -34,6 +36,8 @@
 - 10 - 20 hours of model testing, refining (try categorization)
 
 - Integrating this with the current work on provider analysis would be additional hours as well.
+
+- project group overall had lots of disparate work that may be helpful in pieces (Time series, from provider perspective, our child-focused perspective), or at some point in the future combined into a larger system.
 
 
 ### Other thoughts (unfiltered)
